@@ -2,7 +2,7 @@
 
 ## Installation
 
-Download and install Node.js from [this link](https://nodejs.org/en/download/)
+Download and install Node.js from [this link](https://nodejs.org/en/download/).
 
 When you have Node.js installed run `npm install` to install all dependencies.
 
