@@ -7,7 +7,7 @@
 		"compile": "npm-run-all -s build export"
 	},
 	"dependencies": {
-		"next": "^7.0.2",
+		"next": "^9.3.2",
 		"react": "^16.8.1",
 		"react-dom": "^16.8.1",
 		"styled-components": "^4.1.3"
